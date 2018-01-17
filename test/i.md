@@ -1,4 +1,3 @@
-#
 # Structured Streaming 源码解析系列
 
 [「腾讯·广点通」](http://e.qq.com)技术团队荣誉出品
